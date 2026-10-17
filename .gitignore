@@ -1,0 +1,12 @@
+.env
+.env.*
+*.local
+.DS_Store
+node_modules/
+.tmp/
+secrets.txt
+supabase/.temp/
+supabase/.branches/
+*.log
+tools/bot-eval/runs/
+.DS_Store
